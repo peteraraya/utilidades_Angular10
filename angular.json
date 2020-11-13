@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "miscelaneos"
+    }
+  },
+  "defaultProject": "miscelaneos",
+  "cli": {
+    "analytics": "d6558ef5-ce20-4393-a0f7-afa6a6089b1d"
+  }
 }
